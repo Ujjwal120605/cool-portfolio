@@ -7,8 +7,7 @@ A visually appealing, responsive personal portfolio webpage built using **HTML**
 ## 🚀 Live Preview (Localhost)
 
 You can view the project locally at:
-
-👉 [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+https://ujjwal120605.github.io/cool-portfolio/
 
 > _Note: Make sure to run it using **Live Server** in VS Code._
 
